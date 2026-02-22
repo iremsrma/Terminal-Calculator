@@ -1,0 +1,14 @@
+/home/snowduck/Desktop/MyProjects/Calculator/bin/Debug/net10.0/Calculator
+/home/snowduck/Desktop/MyProjects/Calculator/bin/Debug/net10.0/Calculator.deps.json
+/home/snowduck/Desktop/MyProjects/Calculator/bin/Debug/net10.0/Calculator.runtimeconfig.json
+/home/snowduck/Desktop/MyProjects/Calculator/bin/Debug/net10.0/Calculator.dll
+/home/snowduck/Desktop/MyProjects/Calculator/bin/Debug/net10.0/Calculator.pdb
+/home/snowduck/Desktop/MyProjects/Calculator/obj/Debug/net10.0/Calculator.GeneratedMSBuildEditorConfig.editorconfig
+/home/snowduck/Desktop/MyProjects/Calculator/obj/Debug/net10.0/Calculator.AssemblyInfoInputs.cache
+/home/snowduck/Desktop/MyProjects/Calculator/obj/Debug/net10.0/Calculator.AssemblyInfo.cs
+/home/snowduck/Desktop/MyProjects/Calculator/obj/Debug/net10.0/Calculator.csproj.CoreCompileInputs.cache
+/home/snowduck/Desktop/MyProjects/Calculator/obj/Debug/net10.0/Calculator.dll
+/home/snowduck/Desktop/MyProjects/Calculator/obj/Debug/net10.0/refint/Calculator.dll
+/home/snowduck/Desktop/MyProjects/Calculator/obj/Debug/net10.0/Calculator.pdb
+/home/snowduck/Desktop/MyProjects/Calculator/obj/Debug/net10.0/Calculator.genruntimeconfig.cache
+/home/snowduck/Desktop/MyProjects/Calculator/obj/Debug/net10.0/ref/Calculator.dll
